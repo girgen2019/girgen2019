@@ -27,7 +27,7 @@ I'm responsible, make decisions on my own, adapt quickly to change and work clos
 
 - 🏭 Domains: **Energy / Telemetry (IoT)** and **Agriculture (AgriTech)**
 - 🛠 Main stack: **TypeScript · Playwright · Cypress · Cucumber · Postman · PostgreSQL · Docker · Jenkins**
-- 🌱 Currently learning: **Java** and **REST Assured**
+- ☕ Currently learning: **Java test automation**: Selenium WebDriver, Selenide, Selenoid, REST Assured, JUnit 5, TestNG, Allure
 - 🗣 English: **B2**
 - 🎓 Course: **QA Automation Engineer**, Innohub (2024)
 - 📫 Reach me: [Telegram](https://t.me/rumpelstilzchen_1) · [gir.gen2019@gmail.com](mailto:gir.gen2019@gmail.com)
@@ -74,7 +74,6 @@ Smart farming web app for remote monitoring and automation of farms: sensors, he
 <img src="https://img.shields.io/badge/Gherkin-5B2C6F?style=flat-square" />
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
 <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-DA2128?style=flat-square" />
 <img src="https://img.shields.io/badge/Allure-FF6B00?style=flat-square" />
 
 **🔌 API testing**
@@ -84,7 +83,25 @@ Smart farming web app for remote monitoring and automation of farms: sensors, he
 <img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
 <img src="https://img.shields.io/badge/WireMock-3A3A3A?style=flat-square" />
-<img src="https://img.shields.io/badge/REST_Assured_(learning)-6DB33F?style=flat-square" />
+
+**☕ Java test automation** *(currently learning)*
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-DA2128?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenide-5A8F29?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenoid-1F2937?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/AssertJ-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Jackson-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/Lombok-BC4521?style=flat-square" />
+<img src="https://img.shields.io/badge/Cucumber_JVM-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/Allure_(Java)-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 
 **📱 Mobile testing (Android / iOS)**
 <br/>
