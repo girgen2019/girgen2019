@@ -26,8 +26,8 @@ I build test automation frameworks from scratch, test web, API and mobile applic
 I'm responsible, make decisions on my own, adapt quickly to change and work closely with developers and product teams to reach project goals.
 
 - 🏭 Domains: **Energy / Telemetry (IoT)** and **Agriculture (AgriTech)**
-- 🛠 Main stack: **TypeScript · Playwright · Cypress · Cucumber · Postman · PostgreSQL · Docker · Jenkins**
-- ☕ Currently learning: **Java test automation**: Selenium WebDriver, Selenide, Selenoid, REST Assured, JUnit 5, TestNG, Allure
+- 🛠 Main stack: **TypeScript · Playwright · Cypress · Cucumber · Postman · PostgreSQL · Docker · Jenkins · Allure**
+- ☕ Java stack *(learning)*: **Java · Selenium WebDriver · Selenide · Selenoid · REST Assured · JUnit 5 · TestNG · Maven**
 - 🗣 English: **B2**
 - 🎓 Course: **QA Automation Engineer**, Innohub (2024)
 - 📫 Reach me: [Telegram](https://t.me/rumpelstilzchen_1) · [gir.gen2019@gmail.com](mailto:gir.gen2019@gmail.com)
