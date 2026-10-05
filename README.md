@@ -132,6 +132,20 @@ Smart farming web app for remote monitoring and automation of farms: sensors, he
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square" />
 
+## 🤖 AI-assisted engineering
+
+**Advanced AI user** — I use LLMs and AI coding agents daily to speed up test design, automation and debugging.
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+
 ## 🚀 Pet projects
 
 | Project | Description | Stack |
