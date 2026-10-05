@@ -17,6 +17,15 @@
   <a href="https://github.com/girgen2019"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="#-highlights">Highlights</a> ·
+  <a href="#-experience">Experience</a> ·
+  <a href="#-tech-stack">Tech stack</a> ·
+  <a href="#-ai-assisted-engineering">AI</a> ·
+  <a href="#-pet-projects">Pet projects</a> ·
+  <a href="#-github-stats">Stats</a>
+</p>
+
 ---
 
 ## 🧑‍💻 About me
