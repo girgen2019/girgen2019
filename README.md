@@ -146,6 +146,14 @@ Smart farming web app for remote monitoring and automation of farms: sensors, he
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" />
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
 
+**How I use AI in QA**
+- 🧠 Generating test ideas, edge cases and checklists from requirements and Swagger specs
+- ✍️ Writing and refactoring Playwright / Cypress autotests and Page Objects with AI agents
+- 🐞 Analyzing flaky tests, stack traces and CI logs to find root causes faster
+- 🗄 Building SQL queries and test data for PostgreSQL validation
+- 📝 Drafting bug reports, test cases and documentation
+- 🔍 Always reviewing AI output critically — AI speeds me up, it doesn't replace thinking
+
 ## 🚀 Pet projects
 
 | Project | Description | Stack |
