@@ -37,7 +37,7 @@ I'm responsible, make decisions on my own, adapt quickly to change and work clos
 - 🏭 Domains: **Energy / Telemetry (IoT)** and **Agriculture (AgriTech)**
 - 🛠 Main stack: **TypeScript · Playwright · Cypress · Cucumber · Postman · PostgreSQL · Docker · Jenkins · Allure**
 - ☕ Java stack *(learning)*: **Java · Selenium WebDriver · Selenide · Selenoid · REST Assured · JUnit 5 · TestNG · Maven**
-- 🤖 AI: **Advanced user** — Claude · ChatGPT · Gemini · GitHub Copilot · Cursor
+- 🤖 AI: **Advanced user** — Claude / Claude Code · ChatGPT · Gemini · GitHub Copilot · Cursor · Perplexity · DeepSeek · MCP
 - 🗣 English: **B2**
 - 🎓 Course: **QA Automation Engineer**, Innohub (2024)
 - 📫 Reach me: [Telegram](https://t.me/rumpelstilzchen_1) · [gir.gen2019@gmail.com](mailto:gir.gen2019@gmail.com)
