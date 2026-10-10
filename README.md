@@ -22,6 +22,7 @@
   <a href="#-experience">Experience</a> ·
   <a href="#-tech-stack">Tech stack</a> ·
   <a href="#-ai-assisted-engineering">AI</a> ·
+  <a href="#-game-qa-focus">Game QA</a> ·
   <a href="#-pet-projects">Pet projects</a> ·
   <a href="#-github-stats">Stats</a>
 </p>
@@ -163,6 +164,15 @@ Smart farming web app for remote monitoring and automation of farms: sensors, he
 - 🗄 Building SQL queries and test data for PostgreSQL validation
 - 📝 Drafting bug reports, test cases and documentation
 - 🔍 Always reviewing AI output critically — AI speeds me up, it doesn't replace thinking
+
+## 🎮 Game QA focus
+
+Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer directly:
+- 📱 Mobile build testing on real devices & emulators: ADB, logcat, crash reproduction, Android/iOS
+- 🌐 Client–server checks with Charles / Proxyman: purchases, saves, sync, error handling
+- ⚡ Real-time data validation (telemetry → DB) — same mindset as testing live-ops & multiplayer state
+- 🔁 Exploratory, regression & smoke testing of builds, clear bug reports with repro steps & logs
+- 🤖 Automation & CI: smoke suites in Jenkins pipelines
 
 ## 🚀 Pet projects
 
