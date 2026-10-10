@@ -174,10 +174,13 @@ Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer dire
 - 🔁 Exploratory, regression & smoke testing of builds, clear bug reports with repro steps & logs
 - 🤖 Automation & CI: smoke suites in Jenkins pipelines
 
+🕹 **Practice project:** [Game QA: Tic-Tac-Toe](https://github.com/girgen2019/game-qa-tic-tac-toe) — test plan & checklist (gameplay, save data, mobile interruptions) and 40 Playwright autotests on desktop + mobile emulation in GitHub Actions · [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/)
+
 ## 🚀 Pet projects
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
+| [**Game QA: Tic-Tac-Toe**](https://github.com/girgen2019/game-qa-tic-tac-toe) | Game testing practice: browser game + test plan, checklist, bug report template and 40 Playwright autotests (desktop + Pixel 7 emulation) running in GitHub Actions | JavaScript · TypeScript · Playwright · GitHub Actions | [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/) |
 | [**Booking Service**](https://github.com/girgen2019/Booking_service) | REST API for booking management: DB migrations, request validation, logging, Swagger docs, Docker setup | TypeScript · Express · PostgreSQL · Zod · Winston · Docker | — |
 | [**React Movies**](https://github.com/girgen2019/React-Movies) | Movie search service powered by OMDb API: search by title, filter by movies / series, preloader | React · JavaScript · REST API · CSS | [Live demo](https://girgen2019.github.io/React-Movies/) |
 | [**Letters Cost Calculator**](https://github.com/girgen2019/Calculate-the-cost-of-letters-V2) | Calculator for the cost of signage lettering with configurable options | JavaScript · HTML · CSS | [Live demo](https://girgen2019.github.io/Calculate-the-cost-of-letters-V2/) |
