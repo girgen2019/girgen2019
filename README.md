@@ -176,9 +176,11 @@ Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer dire
 
 ## 🚀 Pet projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Booking Service**](https://github.com/girgen2019/Booking_service) | REST API for booking management: DB migrations, request validation, logging, Swagger docs, Docker setup | TypeScript · Express · PostgreSQL · Zod · Winston · Docker |
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| [**Booking Service**](https://github.com/girgen2019/Booking_service) | REST API for booking management: DB migrations, request validation, logging, Swagger docs, Docker setup | TypeScript · Express · PostgreSQL · Zod · Winston · Docker | — |
+| [**React Movies**](https://github.com/girgen2019/React-Movies) | Movie search service powered by OMDb API: search by title, filter by movies / series, preloader | React · JavaScript · REST API · CSS | [Live demo](https://girgen2019.github.io/React-Movies/) |
+| [**Letters Cost Calculator**](https://github.com/girgen2019/Calculate-the-cost-of-letters-V2) | Calculator for the cost of signage lettering with configurable options | JavaScript · HTML · CSS | [Live demo](https://girgen2019.github.io/Calculate-the-cost-of-letters-V2/) |
 
 ## 📊 GitHub stats
 
