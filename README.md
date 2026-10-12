@@ -13,6 +13,7 @@
 <!-- Contacts -->
 <p align="center">
   <a href="https://t.me/rumpelstilzchen_1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/henadzi-hirylovich-720199233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gir.gen2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/girgen2019"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -41,7 +42,7 @@ I'm responsible, make decisions on my own, adapt quickly to change and work clos
 - 🤖 AI: **Advanced user** — Claude / Claude Code · ChatGPT · Gemini · GitHub Copilot · Cursor · Perplexity · DeepSeek · MCP
 - 🗣 English: **B2**
 - 🎓 Course: **QA Automation Engineer**, Innohub (2024)
-- 📫 Reach me: [Telegram](https://t.me/rumpelstilzchen_1) · [gir.gen2019@gmail.com](mailto:gir.gen2019@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/henadzi-hirylovich-720199233/) · [Telegram](https://t.me/rumpelstilzchen_1) · [gir.gen2019@gmail.com](mailto:gir.gen2019@gmail.com)
 
 <p>
   <a href="https://github.com/girgen2019?tab=followers"><img src="https://img.shields.io/github/followers/girgen2019?label=Followers&style=social" /></a>
