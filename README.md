@@ -174,12 +174,15 @@ Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer dire
 - 🔁 Exploratory, regression & smoke testing of builds, clear bug reports with repro steps & logs
 - 🤖 Automation & CI: smoke suites in Jenkins pipelines
 
+🎯 **Main project (🚧 in progress):** [Game QA: Unity · TrashCat](https://github.com/girgen2019/game-qa-unity-trashcat) — manual testing and a Java test automation framework (AltTester®, JUnit 5, Allure) for a Unity endless-runner game, running on a real Android device
+
 🕹 **Practice project:** [Game QA: Tic-Tac-Toe](https://github.com/girgen2019/game-qa-tic-tac-toe) — test plan & checklist (gameplay, save data, mobile interruptions) and 40 Playwright autotests on desktop + mobile emulation in GitHub Actions · [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/)
 
 ## 🚀 Pet projects
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
+| [**Game QA: Unity · TrashCat**](https://github.com/girgen2019/game-qa-unity-trashcat) 🚧 | Game QA for a Unity mobile/PC endless runner: instrumented Android build on a real device, manual testing (test plan, checklists, bug reports) and a Java automation framework with Page Objects for game screens and CI | Java · AltTester® · JUnit 5 · Allure · Unity · ADB · GitHub Actions | — |
 | [**Game QA: Tic-Tac-Toe**](https://github.com/girgen2019/game-qa-tic-tac-toe) | Game testing practice: browser game + test plan, checklist, bug report template and 40 Playwright autotests (desktop + Pixel 7 emulation) running in GitHub Actions | JavaScript · TypeScript · Playwright · GitHub Actions | [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/) |
 | [**Booking Service**](https://github.com/girgen2019/Booking_service) | REST API for booking management: DB migrations, request validation, logging, Swagger docs, Docker setup | TypeScript · Express · PostgreSQL · Zod · Winston · Docker | — |
 | [**React Movies**](https://github.com/girgen2019/React-Movies) | Movie search service powered by OMDb API: search by title, filter by movies / series, preloader | React · JavaScript · REST API · CSS | [Live demo](https://girgen2019.github.io/React-Movies/) |
