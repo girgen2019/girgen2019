@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Hi,%20I'm%20Henadzi%20Hirylovich%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AQA%20Engineer%20·%20Full%20Stack%20Engineer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Hi,%20I'm%20Henadzi%20Hirylovich%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20QA%20Engineer%20·%20Manual%20%2B%20Automation%20·%20Game%20QA&descAlignY=58&descSize=20" />
 </p>
 
 <!-- Typing animation -->
@@ -32,9 +32,11 @@
 
 ## 🧑‍💻 About me
 
-**AQA / Full Stack Engineer** with **2 years of experience** and strong skills in both manual and automated testing.
-I build test automation frameworks from scratch, test web, API and mobile applications, and know the STLC inside out.
-I'm responsible, make decisions on my own, adapt quickly to change and work closely with developers and product teams to reach project goals.
+**Full Stack QA Engineer** with **2 years of commercial experience** in manual and automated testing of web, mobile (Android / iOS) and API.
+Manual testing is my base: test design, functional, regression and exploratory testing, clear bug reports with logs (ADB / logcat) and traffic captures. Automation is my bonus: I built a test framework from scratch and cut the regression run from 1.5 h to 22 min.
+Now moving into **Game QA** for mobile and PC — practising on a Unity game on a real Android device.
+
+📍 Minsk, Belarus · open to remote
 
 - 🏭 Domains: **Energy / Telemetry (IoT)** and **Agriculture (AgriTech)**
 - 🛠 Main stack: **TypeScript · Playwright · Cypress · Cucumber · Postman · PostgreSQL · Docker · Jenkins · Allure**
@@ -52,7 +54,6 @@ I'm responsible, make decisions on my own, adapt quickly to change and work clos
 ## 🏆 Highlights
 
 - ⚡ Built a regression suite of **860 autotests** and cut the full run from **1.5 h to 22 min (~76% faster)**
-- 🎯 Reached **95% coverage** of critical user scenarios
 - 🧱 Designed and implemented a **test automation framework from scratch**: architecture, core modules, stack integration
 - 🔄 Migrated test scenarios **from Cypress to Playwright** with zero downtime for QA processes
 - 🚦 Set up and optimized **CI/CD pipelines in Jenkins** with Allure reporting
