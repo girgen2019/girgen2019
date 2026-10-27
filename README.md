@@ -176,7 +176,7 @@ Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer dire
 - 🔁 Exploratory, regression & smoke testing of builds, clear bug reports with repro steps & logs
 - 🤖 Automation & CI: smoke suites in Jenkins pipelines
 
-🎯 **Main project (🚧 in progress):** [Game QA: Unity · TrashCat](https://github.com/girgen2019/game-qa-unity-trashcat) — manual testing and a Java test automation framework (AltTester®, JUnit 5, Allure) for a Unity endless-runner game, running on a real Android device
+🎯 **Main project (🚧 in progress):** [Game QA: Unity · TrashCat](https://github.com/girgen2019/game-qa-unity-trashcat) — a Unity endless-runner built with the AltTester® SDK and tested on a real Android device: test plan and 4 checklists (78 checks: gameplay, store, settings, interruptions) plus Java + JUnit 5 smoke and performance tests over ADB with Allure reports and CI
 
 🕹 **Practice project:** [Game QA: Tic-Tac-Toe](https://github.com/girgen2019/game-qa-tic-tac-toe) — test plan & checklist (gameplay, save data, mobile interruptions) and 40 Playwright autotests on desktop + mobile emulation in GitHub Actions · [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/)
 
@@ -184,11 +184,11 @@ Currently moving towards **GameDev QA** (mobile & PC). Skills that transfer dire
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| [**Game QA: Unity · TrashCat**](https://github.com/girgen2019/game-qa-unity-trashcat) 🚧 | Game QA for a Unity mobile/PC endless runner: instrumented Android build on a real device, manual testing (test plan, checklists, bug reports) and a Java automation framework with Page Objects for game screens and CI | Java · AltTester® · JUnit 5 · Allure · Unity · ADB · GitHub Actions | — |
+| [**Game QA: Unity · TrashCat**](https://github.com/girgen2019/game-qa-unity-trashcat) 🚧 | Game QA for a Unity endless runner: Android build with the AltTester® SDK on a real device (Redmi A5), test plan and 4 checklists (78 checks), Java smoke tests (install, cold start, restart, crash detection in logcat) and performance tests (cold start time, memory) over ADB, Allure reports, CI | Java · JUnit 5 · AssertJ · Allure · ADB · Unity · GitHub Actions | — |
 | [**Game QA: Tic-Tac-Toe**](https://github.com/girgen2019/game-qa-tic-tac-toe) | Game testing practice: browser game + test plan, checklist, bug report template and 40 Playwright autotests (desktop + Pixel 7 emulation) running in GitHub Actions | JavaScript · TypeScript · Playwright · GitHub Actions | [Play](https://girgen2019.github.io/game-qa-tic-tac-toe/) |
 | [**Booking Service**](https://github.com/girgen2019/Booking_service) | REST API for booking management: DB migrations, request validation, logging, Swagger docs, Docker setup | TypeScript · Express · PostgreSQL · Zod · Winston · Docker | — |
 | [**React Movies**](https://github.com/girgen2019/React-Movies) | Movie search service powered by OMDb API: search by title, filter by movies / series, preloader | React · JavaScript · REST API · CSS | [Live demo](https://girgen2019.github.io/React-Movies/) |
-| [**Letters Cost Calculator**](https://github.com/girgen2019/Calculate-the-cost-of-letters-V2) | Calculator for the cost of signage lettering with configurable options | JavaScript · HTML · CSS | [Live demo](https://girgen2019.github.io/Calculate-the-cost-of-letters-V2/) |
+| [**Letters Cost Calculator**](https://github.com/girgen2019/Calculate-the-cost-of-letters-V2) | Price calculator for a fire letters show: live USD → BYN rate from the National Bank API, weather forecast for the venue, price breakdown, check of letters in stock, responsive design | JavaScript · HTML · CSS · REST API · GitHub Pages | [Live demo](https://girgen2019.github.io/Calculate-the-cost-of-letters-V2/) |
 
 ## 📊 GitHub stats
 
